@@ -17,6 +17,6 @@ The example spec used here is based on the [petstore-expanded.json](https://gith
 
 <div class="intrinsic-container">
 
-	<iframe src="/mvp-template/dist/"></iframe>
+	<iframe src="/GHP-CryptoPrice/dist/"></iframe>
 
 </div>
