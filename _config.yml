@@ -54,3 +54,5 @@ collections:
   about:
     permalink: /:collection/:path/
     output: true
+
+theme: jekyll-theme-midnight
