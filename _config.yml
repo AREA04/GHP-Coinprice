@@ -2,7 +2,7 @@
 title: API Documentation
 email: your-email@domain.com
 description: >
-  Documentation for [company name]'s' [name of API].
+  Documentation for AREA04's' CryptoPrice API.
 
 baseurl: "/GHP-CryptoPrice" # the subpath of your site, e.g. /blog/
 url: https://AREA04.github.io/GHP-CryptoPrice # the base hostname & protocol for your site
