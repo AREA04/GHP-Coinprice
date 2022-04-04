@@ -55,4 +55,4 @@ collections:
     permalink: /:collection/:path/
     output: true
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-midnight
